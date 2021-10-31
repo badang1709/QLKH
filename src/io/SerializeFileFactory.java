@@ -38,6 +38,7 @@ public class SerializeFileFactory {
             ois.close();
             fis.close();
             return dsKH;
+            1;
         }
         catch (Exception ex)
         {
